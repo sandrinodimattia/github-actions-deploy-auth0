@@ -16,7 +16,7 @@ DEV_AUTH0_CLIENT_SECRET=... npm run export:dev
 
 ## GitHub Actions
 
-In this example each push to `master` or `staging` will result in a workflow being executed which will deploy the changes to your Auth0 account. The settings for these workflows can also be found in the [/config](./config) folder.
+In this example each push to `main` or `staging` will result in a workflow being executed which will deploy the changes to your Auth0 account. The settings for these workflows can also be found in the [/config](./config) folder.
 
 The Client Secrets need to be registered as Repository Secrets in your repository with the following names:
 
