@@ -1,5 +1,7 @@
 # Deploying changes to your Auth0 accounts with GitHub Actions
 
+![Deploy to Auth0 production account](https://github.com/sandrinodimattia/github-actions-deploy-auth0/workflows/Deploy%20to%20Auth0%20production%20account/badge.svg) ![Deploy to Auth0 staging account](https://github.com/sandrinodimattia/github-actions-deploy-auth0/workflows/Deploy%20to%20Auth0%20staging%20account/badge.svg)
+
 This is a sample repository which shows how you can use GitHub & GitHub Actions as an "Infrastructure as Code" solution for Auth0. A full description of how this works can be found on [my blog](https://sandrino.dev/blog/github-actions-deploy-auth0).
 
 ## Performing an export
