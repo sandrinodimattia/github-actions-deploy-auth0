@@ -11,7 +11,7 @@ resourceServers:
     signing_alg: RS256
     skip_consent_for_verifiable_first_party_clients: true
     token_lifetime: 86400
-    token_lifetime_for_web: 7200
+    token_lifetime_for_web: 5000
 clients:
   - name: Deploy CLI
     app_type: non_interactive
