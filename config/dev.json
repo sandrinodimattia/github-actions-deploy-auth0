@@ -1,0 +1,19 @@
+{
+  "AUTH0_DOMAIN": "zerohr-dev.us.auth0.com",
+  "AUTH0_CLIENT_ID": "qOY47ME3LaPWkYOwQj8o62lVUNiUKw01",
+  "AUTH0_ALLOW_DELETE": true,
+  "AUTH0_KEYWORD_REPLACE_MAPPINGS": {
+    "APP_CALLBACKS": [
+      "http://localhost:3000"
+    ],
+    "API_IDENTIFIER": "https://api.dev.zerohr.app/"
+  },
+  "EXCLUDED_PROPS": {
+    "clients": [
+      "client_secret"
+    ],
+    "connections": [
+      "options.client_secret"
+    ]
+  }
+}
